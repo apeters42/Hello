@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Andrew Peterson and Jack Kohll\n");
+  printf("Computer science and economics\n");
 
   return 0;
 }
